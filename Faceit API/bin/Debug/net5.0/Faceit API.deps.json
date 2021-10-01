@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Faceit API/1.0.0": {
+        "dependencies": {
+          "FaceitAPI": "1.0.0.1",
+          "HtmlAgilityPack": "1.11.34"
+        },
+        "runtime": {
+          "Faceit API.dll": {}
+        }
+      },
+      "FaceitAPI/1.0.0.1": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/FaceitAPI.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "HtmlAgilityPack/1.11.34": {
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.11.34.0",
+            "fileVersion": "1.11.34.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Faceit API/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FaceitAPI/1.0.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cySDOEQukD79j6/zhBrAX2ZbJTojq75CsNDBlSqNa32XQGdsgulQQ5a/wrE4nFHVljWYIQyRzqpLv5gWk1p6gw==",
+      "path": "faceitapi/1.0.0.1",
+      "hashPath": "faceitapi.1.0.0.1.nupkg.sha512"
+    },
+    "HtmlAgilityPack/1.11.34": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LJyKMPuQVRi68RnPRmptSSJa1r3adpIfII/tfyMkismDhgmdS0i2ruOGF3Y7Ocxt4IfnhG76BNIa4dzMfR+KYw==",
+      "path": "htmlagilitypack/1.11.34",
+      "hashPath": "htmlagilitypack.1.11.34.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    }
+  }
+}

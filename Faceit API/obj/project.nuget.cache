@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CvbFwq3DGyTUZjrYIlv1zzmOwIv6FZDeJzdgjU4Wdag6unRNVU2HdShm7qQEH0QoIGhtBgpRhdIDmaCH04CElg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Egeskov\\source\\repos\\Faceit API\\Faceit API\\Faceit API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Egeskov\\.nuget\\packages\\faceitapi\\1.0.0.1\\faceitapi.1.0.0.1.nupkg.sha512",
+    "C:\\Users\\Egeskov\\.nuget\\packages\\htmlagilitypack\\1.11.34\\htmlagilitypack.1.11.34.nupkg.sha512",
+    "C:\\Users\\Egeskov\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

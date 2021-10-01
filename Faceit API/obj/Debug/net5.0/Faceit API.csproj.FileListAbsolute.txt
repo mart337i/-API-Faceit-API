@@ -1,0 +1,20 @@
+C:\Users\Egeskov\source\repos\Faceit API\Faceit API\bin\Debug\net5.0\Faceit API.exe
+C:\Users\Egeskov\source\repos\Faceit API\Faceit API\bin\Debug\net5.0\Faceit API.deps.json
+C:\Users\Egeskov\source\repos\Faceit API\Faceit API\bin\Debug\net5.0\Faceit API.runtimeconfig.json
+C:\Users\Egeskov\source\repos\Faceit API\Faceit API\bin\Debug\net5.0\Faceit API.runtimeconfig.dev.json
+C:\Users\Egeskov\source\repos\Faceit API\Faceit API\bin\Debug\net5.0\Faceit API.dll
+C:\Users\Egeskov\source\repos\Faceit API\Faceit API\bin\Debug\net5.0\ref\Faceit API.dll
+C:\Users\Egeskov\source\repos\Faceit API\Faceit API\bin\Debug\net5.0\Faceit API.pdb
+C:\Users\Egeskov\source\repos\Faceit API\Faceit API\bin\Debug\net5.0\FaceitAPI.dll
+C:\Users\Egeskov\source\repos\Faceit API\Faceit API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Egeskov\source\repos\Faceit API\Faceit API\obj\Debug\net5.0\Faceit API.csproj.AssemblyReference.cache
+C:\Users\Egeskov\source\repos\Faceit API\Faceit API\obj\Debug\net5.0\Faceit API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egeskov\source\repos\Faceit API\Faceit API\obj\Debug\net5.0\Faceit API.AssemblyInfoInputs.cache
+C:\Users\Egeskov\source\repos\Faceit API\Faceit API\obj\Debug\net5.0\Faceit API.AssemblyInfo.cs
+C:\Users\Egeskov\source\repos\Faceit API\Faceit API\obj\Debug\net5.0\Faceit API.csproj.CoreCompileInputs.cache
+C:\Users\Egeskov\source\repos\Faceit API\Faceit API\obj\Debug\net5.0\Faceit API.csproj.CopyComplete
+C:\Users\Egeskov\source\repos\Faceit API\Faceit API\obj\Debug\net5.0\Faceit API.dll
+C:\Users\Egeskov\source\repos\Faceit API\Faceit API\obj\Debug\net5.0\ref\Faceit API.dll
+C:\Users\Egeskov\source\repos\Faceit API\Faceit API\obj\Debug\net5.0\Faceit API.pdb
+C:\Users\Egeskov\source\repos\Faceit API\Faceit API\obj\Debug\net5.0\Faceit API.genruntimeconfig.cache
+C:\Users\Egeskov\source\repos\Faceit API\Faceit API\bin\Debug\net5.0\HtmlAgilityPack.dll
